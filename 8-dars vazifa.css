@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container{
+    width: 100%;
+    margin-top: -2rem;
+    min-height: 100vh;
+    background-image: url("photo_2021-02-24_10-51-18.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+
+}
+h1{
+    color: aliceblue;
+    font-size: 2rem;
+    margin-top: 2rem;
+
+  
+ 
+ }
+ .wrapper{
+     width: 80%;
+     margin: 0 auto;
+    
+ }
+ .menu{
+   list-style: none;
+   float: right;
+   margin-top: 1rem;
+  
+ }
+ .menu li{
+     display: inline;
+ }
+ .menu li a{
+     padding: 1rem;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 1.5rem;
+ }
+ .text{
+     color: rgb(1, 83, 206);
+     text-decoration: none;
+     font-size: 2.5rem;
+     margin-top: 15rem;
+     padding: 1rem;}
+.p{
+    font-size: 1.5rem;
+    color: #fff;
+    text-decoration: none;
+}
+.y{
+    font-size: 1rem ;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(0, 87, 218);
+ padding: 0.9rem;
+ margin-bottom: -1rem;
+
+}
+footer{
+    list-style: none;
+    padding: 0.5rem;
+background-color: black;
+color: blanchedalmond;
+margin-top: 17.3rem;
+   }
+   .align li{
+       display: inline;
+       color: blue;
+       margin: 15rem;
+       font-size: 1rem;
+
+   }
+ .color li{
+     display: inline;
+     color: white;
+     margin: 12.7rem;
+     font-size: 1rem;
+ }
+ .olma{
+     background-color: blue;
+     color: white;
+ }
+
+ 
